@@ -4,7 +4,7 @@ public class Gitbash {
         public static void main(String[] args) {
 			System.out.println("prashanth");
 		System.out.println("hi prashanth");
-		oiwicnuienuiern;
+		System.out.println("fhjherbjhe");
 		}
 
 }
